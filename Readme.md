@@ -23,7 +23,7 @@ The interactive web dashboard is designed to showcase dynamic data visualization
 
 1. Clone the repository to your local machine using the following command:
    ```
-   git clone https://github.com/GodwinEgo/interactive-web-dashboard.git
+   git clone https://github.com/GodwinEgo/DashBoard.git
    ```
 2. Navigate to the project directory:
    ```
