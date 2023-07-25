@@ -36,3 +36,8 @@ function createChart() {
 }
 
 //function to update chart data
+function updateChartData() {
+  chartData.datasets[0].data = [15, 20, 30, 25, 10, 5, 35];
+  chartData.datasets[1].data = [30, 25, 20, 15, 5, 10, 20];
+  createChart();
+}
