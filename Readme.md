@@ -51,16 +51,6 @@ The interactive web dashboard is designed to showcase dynamic data visualization
 
 - [Chart.js](https://www.chartjs.org/) - The powerful JavaScript library used for creating charts.
 
-## Contributing
-
-[Include contribution guidelines if applicable]
-
-## Issues
-
-[Link to the project's issue tracker if available]
-
 ## Contact
 
-[Provide contact information if necessary]
-
-Feel free to customize this `README.md` file according to your project's specific details and needs. Remember to include information about how to run the project, technologies used, credits for external libraries or assets, and any other relevant details. A good `README.md` file is essential for anyone accessing your project to quickly understand its purpose and how to use it effectively.
+godwinehile04@gmail.com
