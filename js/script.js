@@ -9,5 +9,12 @@ const chartData = {
       borderColor: "rgba(255,99,132,1)",
       borderWidth: 1,
     },
+    {
+      label: "Data Set 2",
+      data: [20, 10, 5, 25, 35, 30, 15],
+      backgroundColor: "rgba(54,162,235,0.2)",
+      borderColor: "rgba(54,162,235,1)",
+      borderWidth: 1,
+    },
   ],
 };
