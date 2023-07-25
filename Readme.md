@@ -8,7 +8,6 @@ This project demonstrates an interactive web dashboard that displays various dat
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies](#technologies)
-- [License](#license)
 
 ## Overview
 
@@ -39,10 +38,6 @@ The interactive web dashboard is designed to showcase dynamic data visualization
 - CSS
 - JavaScript
 - [Chart.js](https://www.chartjs.org/)
-
-## License
-
-[Insert license information or link to the license file if applicable]
 
 ## Credits
 
