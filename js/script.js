@@ -16,6 +16,13 @@ const chartData = {
       borderColor: "rgba(54,162,235,1)",
       borderWidth: 1,
     },
+    {
+      label: "Data Set 3",
+      data: [20, 10, 15, 20, 5, 30, 15],
+      backgroundColor: "rgba(154,252,235,0.2)",
+      borderColor: "rgba(154,252,235,1)",
+      borderWidth: 1,
+    },
   ],
 };
 
@@ -41,3 +48,6 @@ function updateChartData() {
   chartData.datasets[1].data = [30, 25, 20, 15, 5, 10, 20];
   createChart();
 }
+document.addEventListener("DOMContentLoaded", function () {
+  createChart();
+});
