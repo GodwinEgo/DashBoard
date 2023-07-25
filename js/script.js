@@ -18,3 +18,21 @@ const chartData = {
     },
   ],
 };
+
+//function to create chart
+function createChart() {
+  const ctx = document.getElementById("data-chart").getContext("2d");
+  const myChart = new Chart(ctx, {
+    type: "bar",
+    data: chartData,
+    options: {
+      scales: {
+        y: {
+          beginAtZero: true,
+        },
+      },
+    },
+  });
+}
+
+//function to update chart data
