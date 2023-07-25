@@ -5,7 +5,6 @@ This project demonstrates an interactive web dashboard that displays various dat
 ## Table of Contents
 
 - [Overview](#overview)
-- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies](#technologies)
@@ -15,9 +14,7 @@ This project demonstrates an interactive web dashboard that displays various dat
 
 The interactive web dashboard is designed to showcase dynamic data visualizations, making it easy for users to understand and explore data trends. It utilizes Chart.js, a powerful JavaScript library, to create visually appealing charts and graphs.
 
-## Demo
-
-[Insert link to live demo if available]
+##
 
 ## Installation
 
