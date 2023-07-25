@@ -1,0 +1,16 @@
+#dashboard-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+}
+
+#chart-container {
+    width: 50%;
+}
+
+#map-container {
+    width: 50%;
+    height: 300px;
+    background-color: lightgray;
+}
